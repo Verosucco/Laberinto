@@ -1,0 +1,14 @@
+#####
+#comandos de git 
+######
+#git add . 
+#git commit -m "el mensaje" 
+#git push            (para empujar los cambios del codigo al repo remoto "nube")
+#git pull            (para estirar el codigo del remoto al local "computadora")
+#####
+#comandos para navegar en la terminal
+##### 
+
+#ls o dir      (para ver los carpetas/archivos existentes) 
+#cd nombre_de_archivo (para entrar en el archivo/carpetas) 
+#cd ..     (para retroceder del archivo/carpeta) 
