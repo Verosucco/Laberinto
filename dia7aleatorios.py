@@ -21,4 +21,5 @@ def sorteo(nombres):             #creamos una funcion con el nombre sorteo
 
 nombres=["Andres","Roberto","Maria","Jeremias","Vero"] #creamos la lista fuera de la funcion
 ganador=sorteo(nombres)          #llamamos a la funcion y la guardamos en una variable
-print(ganador)                   #imprimimos la variable que contiene el nombre ganador 
+print(ganador)                   #imprimimos la variable que contiene el nombre ganador  
+
